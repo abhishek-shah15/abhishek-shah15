@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Javascript & Python<br>👯 I’m looking to collaborate on Javascript Projects<br>🌱 I’m currently learning DevOps DevOps concepts especially Kubernetes & Docker & Web3.0<br>💬 Ask me about NodeJs, ReactJs, Angular, and Linux<br>
+🔭 I’m currently working on Javascript & Python<br>👯 I’m looking to collaborate on Javascript Projects<br>🌱 I’m currently learning DevOps concepts especially Kubernetes & Docker as well as Blockchain Technology with Web3.0 <br>💬 Ask me about NodeJs, ReactJs, Angular, and Linux<br>
 
 
 # 💻 Tech Stack:
